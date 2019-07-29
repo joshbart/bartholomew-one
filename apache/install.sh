@@ -9,4 +9,4 @@ ln -s /vagrant/bartholomew.one /var/www/
 
 ### Activate updated Apache config ###
 cp -f /vagrant/apache/000-default.conf /etc/apache2/sites-available/
-service apache2 restart
+systemctl apache2 restart
