@@ -6,4 +6,5 @@ _About the project name_: The name [Olwen](https://en.wikipedia.org/wiki/Olwen) 
 
 ## Roadmap
 
-- Add a Vagrantfile to allow for local testing
+- Set up automatic deployments from the master branch
+- Add details to index.html
