@@ -4,7 +4,8 @@ html{
 }
 
 main {
-  background-image: url("images/bartclan.jpg")
+  background-image: url("images/bartclan.jpg");
+  width: 75%;
 }
 
 .copyright {
