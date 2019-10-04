@@ -3,11 +3,19 @@ html{
   text-align: center;
 }
 
-main {
-  background-image: url("images/bartclan.jpg");
-  width: 75%;
+figure {
+  margin: 0%;
+  padding: 0%;
+  image-rendering: auto;
+  width: 100%;
 }
 
 .copyright {
   text-transform: uppercase;
+}
+
+#headline {
+  text-transform: uppercase;
+  background-color: white;
+  opacity: 80%;
 }
