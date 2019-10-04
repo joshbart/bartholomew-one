@@ -2,6 +2,11 @@ html{
   font-family: sans-serif;
 }
 
+body {
+  background-color: #2D3F40;
+  color: #D1C9B4;
+}
+
 figure {
   margin: 0%;
   padding: 0%;
